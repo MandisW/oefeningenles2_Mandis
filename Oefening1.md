@@ -2,7 +2,7 @@
 
   
 
-*deze teskst is vet*
+**deze tekst is vet**
 
 _deze tekst is scheef_
 
