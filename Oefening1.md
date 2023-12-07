@@ -22,12 +22,7 @@ _deze tekst is scheef_
 
   
 
->Wat is Lorem Ipsum?
 
-Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget pretium nunc. Sed risus nisi, iaculis porttitor enim non, porttitor vulputate tortor. Sed luctus bibendum odio, ac bibendum elit tincidunt vitae. Nullam vitae varius mauris. Vestibulum varius risus et enim tincidunt, eu posuere nisi convallis. Morbi id porta quam. Aliquam porttitor pulvinar elit, ac malesuada diam blandit ac. Etiam lacinia feugiat turpis, eget blandit nisl. Etiam consectetur aliquet mi, nec efficitur libero sagittis ut. Phasellus nisl elit, pulvinar non quam consequat, ullamcorper dictum urna. Nunc sed convallis neque. Vivamus et varius enim, a varius ipsum.
 
-  
-
->Waarom gebruiken we het?
-
-Het is al geruime tijd een bekend gegeven dat een lezer, tijdens het bekijken van de layout van een pagina, afgeleid wordt door de tekstuele inhoud. Het belangrijke punt van het gebruik van Lorem Ipsum is dat het uit een min of meer normale verdeling van letters bestaat, in tegenstelling tot "Hier uw tekst, hier uw tekst" wat het tot min of meer leesbaar nederlands maakt. Veel desktop publishing pakketten en web pagina editors gebruiken tegenwoordig Lorem Ipsum als hun standaard model tekst, en een zoekopdracht naar "lorem ipsum" ontsluit veel websites die nog in aanbouw zijn. Verscheidene versies hebben zich ontwikkeld in de loop van de jaren, soms per ongeluk soms expres (ingevoegde humor en dergelijke).
+Phasellus ut ex felis. Nulla euismod ligula nunc, eu tempus elit bibendum in. Duis aliquet maximus tellus eget tempus. Donec commodo quam a felis vulputate posuere. Quisque eu dictum dolor. Nam scelerisque, massa ut sollicitudin condimentum, dolor purus finibus augue, id venenatis libero ante sed elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas ut convallis ex. Nunc sit amet urna semper mauris sagittis tincidunt. Etiam a arcu non enim ultrices scelerisque. Quisque in blandit tellus, aliquet consequat metus. Etiam molestie dictum felis, ac consequat metus iaculis quis. Fusce nec nibh convallis, rutrum lectus quis, tempus lectus.
